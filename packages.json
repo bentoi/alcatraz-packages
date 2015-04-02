@@ -697,11 +697,11 @@
         "screenshot": "http://injectionforxcode.johnholdsworth.com/remote.png"
       },
       {
-        "name": "IceTouchPlugin",
-        "url": "https://github.com/ZeroC-Inc/icetouch-xcode-plugin",
+        "name": "Ice Builder",
+        "url": "https://github.com/ZeroC-Inc/ice-builder-xcode",
         "branch": "alcatraz",
-        "description": "Ice Touch Xcode plugin to translate Slice files to Objective-C or C++. Please restart Xcode after installing!",
-        "screenshot": "https://raw.githubusercontent.com/ZeroC-Inc/icetouch-xcode-plugin/master/screenshot.png"
+        "description": "Ice Builder to translate Slice files to Objective-C or C++. Please restart Xcode after installing!",
+        "screenshot": "https://raw.githubusercontent.com/ZeroC-Inc/ice-builder-xcode/master/screenshot.png"
       }
     ],
     "color_schemes": [
