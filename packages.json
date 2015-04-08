@@ -698,10 +698,10 @@
       },
       {
         "name": "Ice Builder",
-        "url": "https://github.com/ZeroC-Inc/ice-builder-xcode",
+        "url": "https://github.com/zeroc-ice/ice-builder-xcode",
         "branch": "alcatraz",
         "description": "Ice Builder to translate Slice files to Objective-C or C++. Please restart Xcode after installing!",
-        "screenshot": "https://raw.githubusercontent.com/ZeroC-Inc/ice-builder-xcode/master/screenshot.png"
+        "screenshot": "https://raw.githubusercontent.com/zeroc-ice/ice-builder-xcode/master/screenshot.png"
       }
     ],
     "color_schemes": [
